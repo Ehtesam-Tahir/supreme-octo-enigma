@@ -6,5 +6,17 @@
         "use": "@vercel/python"
       }
     ],
-}
-  
+    "env": {
+        "type": "service_account",
+        "project_id": "lithe-grid-446210-c5",
+        "private_key_id": "4c0312c4d0ad177caf333fb779a777ec8fb5c2f8",
+        "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpGDorizbZdbwY\nMh2oc/0eAbMiVT20p1J/FJJwrovQv4JJwFE0NotEpJgXCio4ehQCMFQb9549Bhtd\nzmvsJLvPyAVfQFICHVv8ketmwdTA4V8/+t/8+jP4LjumZkj2OREB4ctTKRiafu22\nOWZ+hr/hWra41I0wnWObXHJ2zZ9Nqh8SpafAzczrMeTN6yD1O8T+f9QzuGR33iU6\nh6f+v8jG3h9q6CYRpGAArLDfWa5yGVr6aPPCXgXb+/niije9HAeJnG0hYJK5xRt+\nnWpAcIPxNX7fUwblqEgSYbKlR2t4bmJcz80H16FZE2RFgQvpHtmD+Br2v4hM9YhS\nMPj6VprlAgMBAAECggEADXEfWKxLqyxEjFDZkjVMOwksDg/kJJsDgBYo0PvTIgBD\nUW0QF3w5hHaoH3a/pfcwZX8lhIah5dx5KvMYmbBO3MTcBnckvcXLNO/9nFDOwpl3\n2qxtB111aaZ1N/RcGvSs4S8rnFwBOHDcITb9apP4J2gwa897vNBaJXTLJZ4Rapk4\n9W8cqomVBiyyIugxqGiDtt/M9klaSqlteAmwhkIT3NTQfQK74G1+xOL3Ospiwivq\nstpObxJnZPPLaLWWPcPv5nyJyzz1EirVnLAEWFqwJGnNcHvi+RCqWTcFo+vq9qPN\nQKa+vedKZaPsBT9sH5HMMvGBqUdgaOqGIUqoX1070QKBgQDnKKxYJVVK5G80aLyT\noC48Bbcz7UYHpxYdFtW+rxFhVr5gmzGx69nzttCFCzRsoq+LKMGLV15T9Aw5edBe\nmiMSXzrmFKqvvjyuW+7QL2R7AFdATSTsfhWzIKdz0TKt6q6YBh5bbc8lu5fztQnY\n8MCMFGlYR6jteJRsf46YpodftQKBgQC7RCCkOp5amsejAx8rIszWh8OcFPLbMwxB\nHgxr8uowA5rb2T85bmlgdtW9mR/WTemBQfKgAxQdG+dUxU2o3XtQeAkKJnWGQHd/\nIaTPMRiXC3q7z7KrRISFJu0sJXCADcqbLh31mvcV1xThJRaWK1EVUeRz/7w3oP7w\nkLaD2oFscQKBgQC/mvw4WEG5wV3YMFTXfTe1svsnhK6+myX+WLY1x8F9ULyfMSTh\nGOFhXZC8Jwx+W99sVw0O5g2fQzR609j/AX6+tMcKfej5oZOE51ktoYsFVcP83bUU\nfnKYNyH2I1qBxHySMMgq+vtwiG2sqcyO0QiZVDX54fRJWuCUiqr1J1wg3QKBgFqu\nyv+8QyKtAS+3O0iwOXFJnTfgDRqIxc5itrEvmKhXlo4PzcYJ6Y2E/kwp8njckc6+\nGLfTxdGyyXsLcGftmOGGvxnjNdYlMbimmiCbLcU3EeAQ2/yD2YiBKSjPmILqKsqq\nsmdU+4Hf/YRpaV6e60zfszlZBdQKamokKb3/+dyBAoGAKwML+BRvo6Qs1jJk3NkS\n00rWjTxkjHXvnE2zpLLngMmNoclYkZZCOD/+2o3S90yVq0eyljODlcML2VdN+gw4\nBxcm+RNtmr+DgtGyjxV0jPTYx5YgLzL0QX4P7L5U2J85DdRtMn0I80TvJlKzPmnT\nGwzXYGl815PTEbDegafwAuw=\n-----END PRIVATE KEY-----\n",
+        "client_email": "annopett@lithe-grid-446210-c5.iam.gserviceaccount.com",
+        "client_id": "101690647516535512371",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/annopett%40lithe-grid-446210-c5.iam.gserviceaccount.com",
+        "universe_domain": "googleapis.com"
+    }
+  }
