@@ -29,4 +29,4 @@ service = build('sheets', 'v4', credentials=credentials)
 SPREADSHEET_ID = ""
 current_row = 2
 
-from lapp import routes  # Import routes after app initialization to avoid circular imports
+from app import routes  # Import routes after app initialization to avoid circular imports
