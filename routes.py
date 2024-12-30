@@ -1,7 +1,7 @@
 import os
 import requests
 from flask import render_template, request, redirect, url_for, flash
-from lapp import app, service  # Import the app and service from __init__.py
+from app import app, service  # Import the app and service from __init__.py
 from bs4 import BeautifulSoup
 from PIL import Image
 from io import BytesIO
