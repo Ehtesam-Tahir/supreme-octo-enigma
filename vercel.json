@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "__init__.py"
+      "dest": "app.py"
     }
   ]
 }
